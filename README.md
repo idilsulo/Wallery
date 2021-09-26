@@ -14,7 +14,7 @@ Dream a world where art exhibitions take place in real world but placed virtuall
 **For the artists.** Installing an artwork physically has its own costs. How about having a tool where you could place your installation in wherever you want without any physical restrictions with the chance of keeping your anonimity?
 
 ## What it does
-This project enables the artist to have their work published on various landscapes all over the world. With Wallery, we both provide the artists a tool to see their artwork in real world without the need of physically placing them. In addition, some of the artworks can be controversial or the artists may want to keep their anonimity. By installing their works to real-world through Walley, we give the artists much more freedom.
+This project enables the artist to have their work published on various landscapes all over the world. With Wallery, we both provide the artists a tool to see their artwork in real world without the need of physically placing them. In addition, some of the artworks can be controversial or the artists may want to keep their anonimity. By installing their works to real-world through Wallery, we give the artists much more freedom.
 
 Art-lovers on the other hand, get to see and buy the NFTs of the artists by finding them walking around close to artwork's location. 
 
