@@ -4,7 +4,7 @@ ___Art that makes you move.___
 Dream a world where art exhibitions take place in real world but placed virtually, visible only to those interested, and without having any space limit or setup cost. A chance for artists to exhibit their work and sell them as NFTs.
 
 <p style="text-align: center;">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=GKM0GHIbIQo" style="text-align:center" target="_blank"><img src="Wallery.png" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GKM0GHIbIQo" style="text-align:center" target="_blank"><img src="img/Wallery.png" /></a>
 </p>
   
 ## Inspiration
